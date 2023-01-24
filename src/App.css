@@ -1,0 +1,21 @@
+li {
+  border: 1px solid black;
+  padding: 10px;
+  list-style: none;
+  cursor: pointer;
+}
+#root {
+  display: flex;
+  flex-direction: row;
+}
+ul {
+  width: 300px;
+}
+.details {
+  margin: 10px;
+}
+
+.load {
+  width: 300px;
+  margin: 50px;
+}
